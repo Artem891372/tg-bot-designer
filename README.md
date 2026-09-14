@@ -36,6 +36,10 @@ npm run preview
 - `src/TgBotDesignerPrototype_new.jsx` — переработанная версия прототипа
 - `public/` — статические файлы
 
+## Демо
+
+Живая версия: https://artem891372.github.io/tg-bot-designer/
+
 ## Статус
 
 Прототип / эксперимент — функциональность в разработке.
